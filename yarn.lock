@@ -1901,11 +1901,6 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
     "@types/color-name" "^1.1.1"
     color-convert "^2.0.1"
 
-ant-design@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npm.taobao.org/ant-design/download/ant-design-1.0.0.tgz#53ea0a397da976358e88bf06224fb3de756b87b4"
-  integrity sha1-U+oKOX2pdjWOiL8GIk+z3nVrh7Q=
-
 antd@^4.1.5:
   version "4.1.5"
   resolved "https://registry.npm.taobao.org/antd/download/antd-4.1.5.tgz?cache=0&sync_timestamp=1587889482563&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fantd%2Fdownload%2Fantd-4.1.5.tgz#3eb67a5162186dec6b096e74a8b35952ab229040"
@@ -6894,9 +6889,9 @@ mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@~0.5.1:
     minimist "^1.2.5"
 
 moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.npm.taobao.org/moment/download/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha1-DQVdU/UFKqZTyfbraLtdEr9cK1s=
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
